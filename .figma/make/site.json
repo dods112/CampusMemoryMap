@@ -1,0 +1,10 @@
+{
+  "description": "Explore and share campus memories with location-based notes, photos, and audio, while AI turns nearby pins into stories for students and communities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
